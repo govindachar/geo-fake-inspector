@@ -1,1 +1,7 @@
-
+streamlit
+duckdb
+polars
+pandas
+openpyxl
+gspread
+google-auth
